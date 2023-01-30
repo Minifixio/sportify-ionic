@@ -50,4 +50,4 @@ Any suggestions are highly appreciated :)
 
 ## Some pictures of the app
 
-<img src="https://i.imgur.com/u2MsIUJ.jpg" width="250"> <img src="https://i.imgur.com/KrzO0qK.jpg" width="250"> <img src="https://i.imgur.com/3oRcYrb.jpg" width="250">
+<img src="./.previews/preview1.jpeg" width="250"> <img src="./.previews/preview2.jpeg" width="250"> <img src="./.previews/preview3.jpeg" width="250">
